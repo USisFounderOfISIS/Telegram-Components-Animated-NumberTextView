@@ -1,5 +1,6 @@
 # Telegram Components: Animated NumberTextView
 Beautiful Animated NumberTextView extracted from [Telegram source code](https://github.com/DrKLO/Telegram)
+
 ![](https://github.com/USisFounderOfISIS/Telegram-Components-Animated-NumberTextView/blob/main/Animation.gif)
 
 Getting started
