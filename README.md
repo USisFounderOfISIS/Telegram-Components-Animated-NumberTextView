@@ -4,7 +4,7 @@ Beautiful Animated NumberTextView extracted from [Telegram source code](https://
 
 Getting started
 ---------------
-Add a copy of `NumberTextView.java` in your project.
+Add a copy of [NumberTextView.java](https://github.com/USisFounderOfISIS/Telegram-Components-Animated-NumberTextView/blob/main/NumberTextView.java) in your project.
 
 Define the `NumberTextView` in XML (or you can define it in activity without using XML):
 
@@ -15,7 +15,7 @@ Define the `NumberTextView` in XML (or you can define it in activity without usi
     android:layout_height="wrap_content" />
 ```
 
-Then add the character array to specify the animation style:
+Then:
 
 ```java
 final NumberTextView numberTextView = findViewById(R.id.numberTextView);
