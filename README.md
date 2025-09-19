@@ -26,7 +26,7 @@ numberTextView.setTextAlignment(TEXT_ALIGNMENT_CENTER);
 //numberTextView.setTypeface(Typeface.SANS_SERIF);
 int counter = 0;
 button.setOnClickListener(v -> {
-            binding.numberTextView.setNumber(counter, true, false);
+            numberTextView.setNumber(counter, true, false);
             counter++;
         });
 ```
